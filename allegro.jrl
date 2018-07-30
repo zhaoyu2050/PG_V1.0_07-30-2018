@@ -1,0 +1,15 @@
+\t (00:00:30) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:30)     Journal start - Mon Jul 02 10:15:49 2018
+\t (00:00:30)         Host=RXCD-SONGSHILEI User=Administrator Pid=6012 CPUs=8
+\t (00:00:30) 
+\e (00:01:34) Retrieval of 'Allegro_PCB_Design_Planner' license failed: 'ERROR (LMF-02096): License call failed for feature Allegro_PCB_Design_Planner, version 16.600 and quantity 1. The license server search path is defined as 5280@localhost. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-96, 0, 0): License server machine is down or not responding.
+
+Run 'lic_error LMF-02096' for more information.'
+\i (00:02:46) fillin confirm
+\e (00:06:16) Retrieval of 'Allegro_PCB_Design_GXL' license failed: 'ERROR (LMF-02096): License call failed for feature Allegro_PCB_Design_GXL, version 16.600 and quantity 1. The license server search path is defined as 5280@localhost. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-96, 0, 0): License server machine is down or not responding.
+
+Run 'lic_error LMF-02096' for more information.'
+\i (00:07:11) fillin confirm
+\t (00:07:11)     Journal end - Mon Jul 02 10:22:31 2018
